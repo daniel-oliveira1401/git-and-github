@@ -5,3 +5,5 @@ console.log(
 console.log("This is an emergency!!!");
 
 console.log("This is my new awesome feature");
+
+console.log("Hi, good looking 🙊");
