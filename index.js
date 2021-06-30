@@ -6,6 +6,4 @@ console.log("This is my new awesome feature");
 
 console.log("Hi, good looking 🙊");
 
-console.log(
-	"im the master modification that is going to make things go wild :D"
-);
+console.log("Oh hello, im the mod1 branch modification :D");
