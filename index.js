@@ -1,4 +1,4 @@
-console.log("hahaha, there is no emergency at all 😈");
+console.log("Hmm..., i think theres an emergency here");
 
 console.log("This is my new awesome feature");
 
