@@ -1,6 +1,8 @@
 console.log("Hmm..., i think theres an emergency here");
 
-console.log("This is my new awesome feature");
+console.log("This is my new awesome feature. There is another one coming:");
+
+console.log("Sup bois, im the cool new feature 😎");
 
 console.log("Hi, good looking 🙊");
 
