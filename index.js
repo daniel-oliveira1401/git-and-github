@@ -1,6 +1,4 @@
-console.log(
-	"the initial content :). There's an emergency there, but it is all g now :). Also added the new feature btw"
-);
+console.log("hahaha, there is no emergency at all 😈");
 
 console.log("This is my new awesome feature");
 
