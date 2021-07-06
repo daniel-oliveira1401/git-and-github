@@ -13,3 +13,6 @@ console.log("Hello, im learning how to integrate git and github :D");
 console.log("Helloo, im the change coming from github editor :D");
 
 console.log("Im the change thats gonna come through the pull command:P");
+
+console.log("Oh hello, im the new thing that was created on github itself.");
+console.log("Wish me luck on my way to becoming a pull request :D");
