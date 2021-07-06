@@ -6,6 +6,8 @@ console.log("Sup bois, im the cool new feature 😎");
 
 console.log("Hi, good looking 🙊");
 
+console.log("YO NEW FEATURE HERE HELLOO (another-feature)");
+
 console.log("Oh hello, im the mod1 branch modification :D");
 
 console.log("Hello, im learning how to integrate git and github :D");
