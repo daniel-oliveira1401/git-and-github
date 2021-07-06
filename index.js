@@ -16,3 +16,5 @@ console.log("Im the change thats gonna come through the pull command:P");
 
 console.log("Oh hello, im the new thing that was created on github itself.");
 console.log("Wish me luck on my way to becoming a pull request :D");
+
+console.log("this is the last way to create a pull request i guess :D");
